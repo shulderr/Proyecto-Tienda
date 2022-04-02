@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+<<<<<<< HEAD
+    <Compile Update="Form3.cs">
+=======
+    <Compile Update="Form0.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+>>>>>>> 3df3b86e6006d8816a6f2db7e52de94299250d02
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
